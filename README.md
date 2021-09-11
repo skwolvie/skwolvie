@@ -1,4 +1,6 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/arjuns2020/arjuns2020/main/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! Welcome to my Github Profile</h2>
+
+### 🤝🏻 &nbsp;Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/skwolvie)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sachinsks1999)
 
@@ -35,10 +37,4 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{arjuns2020}/count.svg)
  
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">  
-<a href="https://linkedin.com/in/skwolvie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sachinsksm99@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
 
