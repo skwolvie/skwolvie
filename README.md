@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![azure](https://img.shields.io/badge/AZURE%20-%23FF9900.svg?&style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
 ![keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=whit)&nbsp;
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
@@ -27,8 +28,8 @@
 
 <p align="center">
 <a href="https://github.com/arjuns2020">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arjuns2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arjuns2020&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skwolvie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skwolvie&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -37,7 +38,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">  
-<a href="https://linkedin.com/in/arjuns2020"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arjunsm2020@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/skwolvie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sachinsksm99@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
